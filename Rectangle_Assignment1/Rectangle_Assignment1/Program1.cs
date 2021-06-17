@@ -137,7 +137,7 @@ namespace Rectangle_Assignment1
                     default:
                         break;
                 }
-
+                Console.WriteLine("Do you want to perform any other Operation from below menu.....If NO then Press 7 to EXIT or select suitable option");
                 selection = ValidateMenuSelection();
 
             }
