@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "q7M6RPjc+tPh5Cws67ztChHP6vd2QRpFU6x+8ukKcgwhEn9DYZsBWjP75VEmGT9XbGZd5ZwEoa6rVNjy5xRYqw==",
+  "dgSpecHash": "DkyMWfoDBFTx6MQecSAx7xd3yR8fsPvPKqnZSMBHSfUQBb9ItrSjKpMjuYrnBJIlObE456sEo43GVsVPi+PGsQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\webil\\source\\repos\\Rectangle_Assignment1\\Rectangle_Assignment1\\Rectangle_Assignment1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\webil\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\webil\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\webil\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\webil\\.nuget\\packages\\nunit3testadapter\\4.0.0\\nunit3testadapter.4.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
